@@ -13,8 +13,10 @@ Este es un demo para la clase del sabado
 * item 2
 * item 3
 
+__
 
 esto es en **negrilla**
 
 esto es *cursiva*
 
+www.google.com
